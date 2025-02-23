@@ -1,4 +1,4 @@
-# BlockX: Artifact Directory Template
+# BlockX: Artifact Directory
 
 
 2. Replace the blank `report.pdf` with your final project report. This is the version that will be linked at [hdsishowcase.com](https://hdsishowcase.com). (Note that you will also have to upload your report separately to Gradescope for your mentor to grade it.)
